@@ -14,13 +14,13 @@ Realize o cadastro em https://azure.microsoft.com/pt-br/ e depois acesse o Azure
 Clique em **+ Create Resource** e pesquise por **"*Machine Learning*"**:
 
 <div align="center">
-    <img width="700" title="ML01" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML01.png"/>
+    <img width="700" title="ML01" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML01.png?raw=true"/>
 </div>
 
 Clique em ```Create``` para criar novo recurso do **Azure Machine Learning** com as seguintes configurações:
 
 <div align="center">
-    <img width="700" title="ML02" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML02.PNG"/>
+    <img width="700" title="ML02" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML02.PNG?raw=true"/>
 </div>
 
 - **Subscription:** Sua assinatura do Azure.
@@ -40,31 +40,31 @@ Clique em ```Create``` para criar novo recurso do **Azure Machine Learning** com
 - **Container registry:** Deixar na opção "None".
 
 <div align="center">
-    <img width="700" title="ML03" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML03.PNG"/>
+    <img width="700" title="ML03" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML03.PNG?raw=true"/>
 </div> 
 <br>
 <div align="center">
-    <img width="700" title="ML04" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML04.PNG"/>
+    <img width="700" title="ML04" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML04.PNG?raw=true"/>
 </div>
 
 Clique em **Review + Create** revise os dados e clique em ```Create```. Aguarde a criação do espaço de trabalho (pode demorar alguns minutos) e, em seguida, clique em ```Go to resource``` ou na "Home" do Azure, e escolha o "Workspace" criado na etapa de "Preparação de Ambiente":
 
 <div align="center">
-    <img width="700" title="ML05" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML05.PNG"/>
+    <img width="700" title="ML05" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML05.PNG?raw=true"/>
 </div> 
 <br>
 <div align="center">
-    <img width="700" title="ML06" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML06.PNG"/>
+    <img width="700" title="ML06" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML06.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML07" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML07.PNG"/>
+    <img width="700" title="ML07" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML07.PNG?raw=true"/>
 </div>
 
 Na página do Workspace escolhido, clique em ```Launch Studio``` para ser redirecionado à página https://ml.azure.com. Pode ser necessário fazer o login novamente.
 
 <div align="center">
-    <img width="700" title="ML08" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML08.PNG"/>
+    <img width="700" title="ML08" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML08.PNG?raw=true"/>
 </div>
 
 ## Criação do Automated ML no Machine Learning Studio
@@ -72,13 +72,13 @@ Na página do Workspace escolhido, clique em ```Launch Studio``` para ser redire
 No Azure Machine Learning Studio (https://ml.azure.com), acessar **Automated ML**.
 
 <div align="center">
-    <img width="700" title="ML09" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML09.PNG"/>
+    <img width="700" title="ML09" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML09.PNG?raw=true"/>
 </div>
 
 Clicar em **+ New Automated ML job** para criar um novo trabalho de ML automatizado:
 
 <div align="center">
-    <img width="700" title="ML10" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML10.PNG"/>
+    <img width="700" title="ML10" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML10.PNG?raw=true"/>
 </div>
 
 Com as seguintes configurações:
@@ -94,7 +94,7 @@ Com as seguintes configurações:
 - **Tags:** Nenhuma
 
 <div align="center">
-    <img width="700" title="ML11" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML11.PNG"/>
+    <img width="700" title="ML11" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML11.PNG?raw=true"/>
 </div>
 
 **Task type & Data:**
@@ -102,7 +102,7 @@ Com as seguintes configurações:
 - **Task type:** Regressão
 
 <div align="center">
-    <img width="700" title="ML12" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML12.PNG"/>
+    <img width="700" title="ML12" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML12.PNG?raw=true"/>
 </div>
 
 - **Select data:** Crie um novo conjunto de dados com as seguintes configurações:
@@ -116,7 +116,7 @@ Com as seguintes configurações:
     - **Type:** Tabular
 
 <div align="center">
-    <img width="700" title="ML13" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML13.PNG"/>
+    <img width="700" title="ML13" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML13.PNG?raw=true"/>
 </div>
 
   - **Data Source:**
@@ -124,7 +124,7 @@ Com as seguintes configurações:
     - Selecione **From Web Files**
 
 <div align="center">
-    <img width="700" title="ML14" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML14.PNG"/>
+    <img width="700" title="ML14" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML14.PNG?raw=true"/>
 </div>
 
   - **Web URL:**
@@ -134,7 +134,7 @@ Com as seguintes configurações:
     - **Skip data validation:** Não selecionar
 
 <div align="center">
-    <img width="700" title="ML15" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML15.PNG"/>
+    <img width="700" title="ML15" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML15.PNG?raw=true"/>
 </div>
 
   - **Settings:**
@@ -152,7 +152,7 @@ Com as seguintes configurações:
     - **Dataset contains multi-line data:**  Deixar desmarcado
 
 <div align="center">
-    <img width="700" title="ML16" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML16.PNG"/>
+    <img width="700" title="ML16" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML16.PNG?raw=true"/>
 </div>
 
   - **Schema**
@@ -162,19 +162,19 @@ Com as seguintes configurações:
     - E habilitar todas as demais opções nessa tela
   
 <div align="center">
-    <img width="700" title="ML17" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML17.PNG"/>
+    <img width="700" title="ML17" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML17.PNG?raw=true"/>
 </div>
 
   - **Review:** Revisar os dados preenchidos nas páginas anteriores e clicar em ```Create```.
 
 <div align="center">
-    <img width="700" title="ML18" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML18.PNG"/>
+    <img width="700" title="ML18" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML18.PNG?raw=true"/>
 </div>
 
 **Task type & Data:** Selecionar o conjunto de dados ```bike-rental```.
 
 <div align="center">
-    <img width="700" title="ML19" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML19.PNG"/>
+    <img width="700" title="ML19" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML19.PNG?raw=true"/>
 </div>
 
 **Task Settings**
@@ -184,7 +184,7 @@ Com as seguintes configurações:
 - Clicar em **View Aditional configuration settings** e preencher conforme imagem abaixo:
 
 <div align="center">
-    <img width="700" title="ML21" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML21.PNG"/>
+    <img width="700" title="ML21" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML21.PNG?raw=true"/>
 </div>
 
 - **Limits**
@@ -204,7 +204,7 @@ Com as seguintes configurações:
   - **Enable early termination:** Selecionado
 
 <div align="center">
-    <img width="700" title="ML22" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML22.PNG"/>
+    <img width="700" title="ML22" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML22.PNG?raw=true"/>
 </div>
 
 - **Validate and test:**
@@ -216,7 +216,7 @@ Com as seguintes configurações:
   - **Test data:** Nenhum
 
 <div align="center">
-    <img width="700" title="ML23" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML23.PNG"/>
+    <img width="700" title="ML23" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML23.PNG?raw=true"/>
 </div>
 
 **Compute:**
@@ -232,23 +232,23 @@ Com as seguintes configurações:
 - **Number of instances:** 1
 
 <div align="center">
-    <img width="700" title="ML24" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML24.PNG"/>
+    <img width="700" title="ML24" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML24.PNG?raw=true"/>
 </div>
 
 **Review** - Revisar os dados e clicar no botão ```Submit trainning job```.
 
 <div align="center">
-    <img width="700" title="ML25" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML25.PNG"/>
+    <img width="700" title="ML25" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML25.PNG?raw=true"/>
 </div>
 
 Espere o trabalho terminar, pode demorar um pouco.
 
 <div align="center">
-    <img width="700" title="ML26" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML26.PNG"/>
+    <img width="700" title="ML26" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML26.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML27" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML27.PNG"/>
+    <img width="700" title="ML27" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML27.PNG?raw=true"/>
 </div>
 
 ## Avaliação dos resultados
@@ -258,17 +258,17 @@ Na guia **Overview** é indicando qual modelo apresentou melhor resultado. Na Se
 Clique na guia **Metrics** e verifique os gráficos que mostram o desempenho do modelo. 
 
 <div align="center">
-    <img width="700" title="ML30" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML30.PNG"/>
+    <img width="700" title="ML30" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML30.PNG?raw=true"/>
 </div>
 
 O gráfico **Residuals Histogram** mostra os resíduos (as diferenças entre os valores previstos e reais). O gráfico **Predict vs. True** compara os valores previstos com os valores verdadeiros.
 
 <div align="center">
-    <img width="700" title="ML29" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML29.PNG"/>
+    <img width="700" title="ML29" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML29.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML28" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML28.PNG"/>
+    <img width="700" title="ML28" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML28.PNG?raw=true"/>
 </div>
 
 ## Implantação do modelo
@@ -276,17 +276,17 @@ O gráfico **Residuals Histogram** mostra os resíduos (as diferenças entre os 
 Na guia **Model** do melhor modelo treinado, clique em **Deploy** e na opção **Web Service** para implantar o modelo com as seguintes configurações:
 
 <div align="center">
-    <img width="700" title="ML31" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML31.PNG"/>
+    <img width="700" title="ML31" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML31.PNG?raw=true"/>
 </div>
 
 Clique em ```Deploy``` e aguarde até que o status da implantação mude para **Succeeded**.
 
 <div align="center">
-    <img width="700" title="ML32" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML32.PNG"/>
+    <img width="700" title="ML32" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML32.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML34" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML34.PNG"/>
+    <img width="700" title="ML34" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML34.PNG?raw=true"/>
 </div>
 
 ## Teste do modelo
@@ -294,13 +294,13 @@ Clique em ```Deploy``` e aguarde até que o status da implantação mude para **
 No Azure Machine Learning, clique em **Endpoints** no menu esquerdo, e selecione o endpoint criado (**predict-rentals**).
 
 <div align="center">
-    <img width="700" title="ML33" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML33.PNG"/>
+    <img width="700" title="ML33" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML33.PNG?raw=true"/>
 </div>
 
 Na página do endpoint clicar na guia **Test**.
 
 <div align="center">
-    <img width="700" title="ML35" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML35.PNG"/>
+    <img width="700" title="ML35" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML35.PNG?raw=true"/>
 </div>
 
 No campo **Input data to test endpoint** informe o seguinte JSON:
@@ -331,7 +331,7 @@ No campo **Input data to test endpoint** informe o seguinte JSON:
 Clique no botão **Test** e verifique que o resultado irá trazer um número previsto de aluguéis:
 
 <div align="center">
-    <img width="700" title="ML36" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML36.PNG"/>
+    <img width="700" title="ML36" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML36.PNG?raw=true"/>
 </div>
 
 ## Exclusão do endpoint e espaço de trabalho
@@ -341,11 +341,11 @@ Clique no botão **Test** e verifique que o resultado irá trazer um número pre
 - No estúdio Azure Machine Learning (https://ml.azure.com/?azure-portal=true), na guia **Endpoints**, selecione o ponto de extremidade de **predict-rentals**. Em seguida, clique em **Delete** e confirme que deseja excluir o endpoint.
 
 <div align="center">
-    <img width="700" title="ML37" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML37.PNG"/>
+    <img width="700" title="ML37" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML37.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML38" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML38.PNG"/>
+    <img width="700" title="ML38" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML38.PNG?raw=true"/>
 </div>
 
 **Excluir o espaço de trabalho:**
@@ -353,31 +353,31 @@ Clique no botão **Test** e verifique que o resultado irá trazer um número pre
 - No portal Azure (https://portal.azure.com/?azure-portal=true), na página **Resource groups**, abra o grupo de recursos que especificou ao criar o seu espaço de trabalho do Azure Machine Learning.
 
 <div align="center">
-    <img width="700" title="ML39" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML39.PNG"/>
+    <img width="700" title="ML39" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML39.PNG?raw=true"/>
 </div>
 
 - Clique em **Delete resource group**, digite o nome do grupo de recursos para confirmar que deseja excluí-lo e clique em ```Delete```.
 
 <div align="center">
-    <img width="700" title="ML40" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML40.PNG"/>
+    <img width="700" title="ML40" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML40.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML41" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML41.PNG"/>
+    <img width="700" title="ML41" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML41.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML42" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML42.PNG"/>
+    <img width="700" title="ML42" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML42.PNG?raw=true"/>
 </div>
 
 - Observe que o recurso levará algum tempo para ser excluído:
 
 <div align="center">
-    <img width="700" title="ML43" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML43.PNG"/>
+    <img width="700" title="ML43" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML43.PNG?raw=true"/>
 </div>
 <br>
 <div align="center">
-    <img width="700" title="ML44" src="https://github.com/Hisly-A/DIO_Machine_Learning_no_Azure/blob/main/images/ML44.PNG"/>
+    <img width="700" title="ML44" src="https://github.com/Mirellawanessa/Azure-AI-Fundamentals/blob/main/Machine_Learning_no_Azure/images/ML44.PNG?raw=true"/>
 </div>
 
 ## Links utilizados
